@@ -1,0 +1,7 @@
+{
+  "hostname": "change-me to-mongodbHostName",
+  "port": "27017",
+  "username": "change-me to-username",
+  "password": "change-me to-password",
+  "database": "change-me to-mongoDatabaseName"
+}

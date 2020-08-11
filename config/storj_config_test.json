@@ -1,0 +1,14 @@
+{ 
+	"apikey":     "13Yqcu4fyPs4NvqTntMJr1WPPe6js8hWqPb4aVQ31mhnhkrfZ1HPGwg1nJazbZNARKDL4hNvWXoLcn5NqqrEn5JB2GGL1JCcYvptpLZ",
+	"satellite":  "us-central-1.tardigrade.io:7777",
+	"bucket":     "bucket1",
+	"uploadPath": "test/file1",
+	"encryptionpassphrase": "test",
+	"serializedAccess": "16soEur6XdxoE6bJHqRbpPQmSZ8dHHGu6NUMs43EN5Fk5CU3X1UiWF5Dv9c6VijPSNRWVVNDpf6AQQEvA4NhW6GJ8nTcDiwiogsB31gVU5FuQcG2D1aHZD2mmeYSUkdrmbfacNm8yXrXKr3u34fS8DJNNz3pryt4aYJR6MdFTfRWdMEwqVrjSkcbd4DEnGFBa2yZUo9MYisbE6VmXs2R8163cLZnotgXSqUBRwebKPHEvUzevDw3wuHo1nc1HdnrK5G1XHJDDjfA8hJsFe7BKkQ7eufNZKbkmqgRUkMxrv2cbQd1Lk1mEEoYLMyzkJWG1rR6t7XeD6ktguegKNtDf6XfWWM7Yc67wALhrdfWr45kkNNfvq9zwD18WJpfzQ8u2C7y3vC425DPAXR9cd24exX2JnGpRRd78h2tNtk8bETY2Q2bLm2fVvZRL1UbbE5TEx3KkEavkv663",
+	"allowDownload":	"true",
+	"allowUpload":	"true",
+	"allowList":	"true",
+	"allowDelete":	"true",
+	"notBefore":	"0",
+	"notAfter":	"0"
+}
